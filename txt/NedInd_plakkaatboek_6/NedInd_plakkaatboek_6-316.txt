@@ -1,0 +1,45 @@
+1753. J. MOSSEL,
+
+adjudanten,
+wagtmeesters,
+sergeanten,
+corporaals,
+trompetters,
+tamboers,
+pypers,
+ruyters, en
+soldaten.
+Artilleristen, te weten:
+lieutenants,
+extra-ordinaire lieutenants,
+ordinaire vuurwerkers,
+bombardiers of constabels,
+cannoniers of constabelmaats, en
+handlangers of bosschieters.
+Ingenieurs, als:
+capitains,
+lieutenants, en
+vendrigs.
+
+Bediendens van de geneeskunde en chirurgie, als:
+
+chirurgyns majoor,
+opper-chirurgyns,
+hospitaliers,
+chirurgyns,
+onder- en mindere chirurgyns,
+apothecar, en
+botanicus.
+
+Ambagtslieden, als:
+baasen van de wapenkamers,
+meesterknegts van de wapenkamers,
+gezellen van de wapenkamers,
+baasen van de timmerlieden,
+meesterknegts van de timmerlieden,
+
+Europische timmerlieden,
+
+15
+
+inlandsche timmerlieden, enz, van alle ambagten, geene uyt-
