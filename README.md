@@ -55,3 +55,5 @@ for prefix in $prefixes; do
 done
 ```
 
+## Notes on use
+* volume 17 contains an index on volumes 1-16
